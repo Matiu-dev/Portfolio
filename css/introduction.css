@@ -1,0 +1,25 @@
+.introduction {
+    display: grid;
+    width: 100%;
+    background-color:#F5F5F5;
+    margin-top: 1em;
+    justify-items: center;
+}
+
+.introductionName {
+    align-self: center;
+}
+
+.introductionDescription {
+    align-self: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.introductionImage {
+    align-self: center;
+    max-height: auto;
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+}

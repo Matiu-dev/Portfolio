@@ -1,0 +1,20 @@
+.navigation {
+    background-color: lightgray;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.navigation-div {
+    /* flex: 1f; */
+    /* padding: 1em 0em 1em 0em */
+}
+
+.navigation-button {
+    padding: 2em 3em;
+    background-color: transparent;
+    border: none;
+    font-size: 1em;
+    font-weight: bold;
+}

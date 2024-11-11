@@ -1,0 +1,15 @@
+.contacts {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    background-color:#F5F5F5;
+    margin-top: 1em;
+    flex-wrap: wrap;
+}
+
+.contact {
+    margin: 0 1em 0 1em;
+}

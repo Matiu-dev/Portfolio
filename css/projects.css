@@ -1,0 +1,11 @@
+.projects {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.project {
+    background-color: #F5F5F5;
+    margin: 1em;
+    text-align: center;
+}
